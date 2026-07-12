@@ -4,3 +4,4 @@ chunks.pkl
 __pycache__/
 *.pyc
 .env
+docs/
