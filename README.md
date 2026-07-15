@@ -18,4 +18,4 @@ An AI-powered platform that makes industrial knowledge instantly queryable.
 4. Launch app: `streamlit run app.py`
 
 ## Team
-GPREC, Kurnool — Sreeja Nathi & [Teammate Name]
+GPREC, Kurnool —  Appala Sirisha & Nathi Sreeja
